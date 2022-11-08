@@ -32,7 +32,7 @@ Podes visualizar o layout do projeto através do link abaixo:
 
 - [Layout](https://www.figma.com/community/file/1169028343875283461)
 
-Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
+Lembrando que precisas de ter uma conta no [Figma](http://figma.com/).
 
 ## 📝 License
 
